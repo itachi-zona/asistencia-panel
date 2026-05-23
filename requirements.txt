@@ -1,0 +1,8 @@
+flask
+flask-cors
+gunicorn
+psycopg2-binary
+openpyxl
+Pillow
+requests
+qrcode[pil]
